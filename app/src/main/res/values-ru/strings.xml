@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlightTracker</string>
+    <string name="search">поиск</string>
+    <string name="instructions">инструкции</string>
+    <string name="code">Введите код аэропорта</string>
+    <string name="m3">Выберите язык</string>
+    <string name="m2">Помогите</string>
+    <string name="m1">Посмотреть сохраненные рейсы</string>
+    <string name="m4">Нет сохраненных рейсов</string>
+    <string name="m5">Имя автора: Vinay Kumar Singh</string>
+    <string name="m6">Номер версии деятельности: 1.0</string>
+    <string name="m7">Instruktsii: vvedite kod aeroporta v osnovnoy deyatel\'nosti. On pokazhet raspisaniye vsekh reysov. Nazhmite na lyuboy konkretnyy reys, chtoby prosmotret\' detali poleta. Sokhranite detali, chtoby prosmotret\' ikh na boleye pozdnem etape. Vy takzhe mozhete udalit\' sokhranennyye reysy.</string>
+</resources>
